@@ -1,4 +1,4 @@
-# Zomato-Sales-Analysis
+# Zomato-Order-Analysis
 
 Zomato providing services in 822 cities, connected with 100000 users and processing 150281 orders.
 
